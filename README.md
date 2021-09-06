@@ -1,4 +1,4 @@
-![Capture d’écran 2021-09-06 à 12 09 49 PM](https://user-images.githubusercontent.com/76212533/132251489-5fe7e031-bd11-4c7e-bcc7-ca691c0f8e8a.png)
+
 # Dell-PowerEdge-T30-Hackintosh
 Another one of my Opencore archives
 
