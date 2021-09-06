@@ -1,6 +1,6 @@
-![Capture d’écran 2021-09-06 à 12 09 49 PM](https://user-images.githubusercontent.com/76212533/132251588-ee22b022-3e5a-4df9-98f5-b292feb06e38.png)
-
 # Dell-PowerEdge-T30-Hackintosh
+![Capture d’écran 2021-09-06 à 12 09 49 PM](https://user-images.githubusercontent.com/76212533/132251588-ee22b022-3e5a-4df9-98f5-b292feb06e38.png)
+
 Another one of my Opencore archives
 
 As stated in the X1 Carbon repo this is an effort of mine to actively backup my EFIs, you're free to use them though I can't garantuee all features will work (Even if we have the exact same hardware)
