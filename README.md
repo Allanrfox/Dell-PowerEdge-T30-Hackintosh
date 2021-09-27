@@ -26,6 +26,7 @@ All sensors work under macOS
 
 # What kinda works.
 Audio (this machine has 4 audio jacks and well only 2 work, the ones that don’t are the microphone jack, and the mic/ headphone combo jack, though on the bright side HDMI audio now fucntions so have fun plugging in to a TV or a display with an audio jack) 
+
 ![Capture d’écran 2021-09-27 à 4 10 23 PM](https://user-images.githubusercontent.com/76212533/134997317-44d08425-6935-4258-96e7-7c83aabda902.png)
 
 **Warning**, This EFI won't work unless you make all of the UEFI modifications.If you're not up for that, you'll need to add ```npci=0x2000``` to your boot args, enable ```KernelPm``` and ```AppleIntelCPUPM``` in your config.plist, DO be warned monterey will mostlikely won't display post XNU.
