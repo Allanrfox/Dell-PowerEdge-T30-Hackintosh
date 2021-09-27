@@ -7,7 +7,26 @@ As stated in the X1 Carbon repo this is an effort of mine to actively backup my 
 
 Yes I own a Skylake Dell Server that retails for 999USD (last time i checked), obviously I have no love life, but that doesnt impeed me from having a flexible and an overall great experience on this machine 
 
-My Model is equipped with a Xeon E5-1225 v5, 16gb ECC ram, 3 HDDs, no dGPU
+# My Specs
+
+| Part        | Model Number
+| ---         | ---
+| CPU         | Intel(R) Xeon(R) CPU E3-1225 v5 @ 3.30GHz (Quad Core)
+| PSU         | Stock Factory Dell PSU
+| Motherboard | Dell 07T4MC
+| BIOS        | 1.6.0
+| Chipset     | Intel C236
+| Memory      | Samsung 2133Mhz ECC RAM (2x8GB)
+| GPU         | Intel HD P530 iGPU
+| Monitor     | Dell D2015H
+| Storage     | Samsung SSD 860 EVO 500GB
+|             | Toshiba MQ01ABD100 1TB HDD
+| Ethernet    | Intel I219LM2 (onboard)
+| USB         | Intel 100 Series/C230 Series USB 3.00 xHCI Controller
+| Sound       | Realtek ALC899 (Layout ID: 3)
+| Keyboard    | Apple USB Keyboard Model A1243
+| Mouse       | Dell Mouse of which I don't know the model
+| Bootloader  | Opencore 0.7.3
 
 # Tested in
 Tested Big Sur 11.0.1 up to 11.6 (update, I have managed to fix the Issue and it just requires to raise DVMT Preallocated memory and DVMT Total Gfx Memory to MAX  using a modified grub shell Huge thanks to cstrouse for documenting this on his repo)
