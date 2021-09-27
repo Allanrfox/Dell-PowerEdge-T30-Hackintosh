@@ -30,7 +30,7 @@ Audio (this machine has 4 audio jacks and well only 2 work, the ones that don’
 
 **Warning**, This EFI won't work unless you make all of the UEFI modifications.If you're not up for that, you'll need to add ```npci=0x2000``` to your boot args, enable ```KernelPm``` and ```AppleIntelCPUPM``` in your config.plist, DO be warned monterey will mostlikely won't display post XNU.
 
-. below here I leave you with cstrouses' work on disabling CFG Lock and co. on BIOS 1.6.0
+Below here I leave you with cstrouses' work on disabling CFG Lock and co. on BIOS 1.6.0
 
 1. **Disable CFG Lock**
 ```setup_var 0xAF 0x0```
