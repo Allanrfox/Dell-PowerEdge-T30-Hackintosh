@@ -64,7 +64,7 @@ Below here I leave you with cstrouses' work on disabling CFG Lock and co. on BIO
 4. **Set DVMT Total Gfx Memory to MAX**
 ```setup_var 0x351 0x3```
 
-#Ventura Support
+# Ventura Support
 Yes I'm back, I've been lazy with updates but here it is, for those who still own one of these.
 
 ![CEB122EF-C1DA-4EAE-A5F9-91E2188D23A2](https://user-images.githubusercontent.com/76212533/226148821-eb781cc6-ba78-45d9-a8ec-0a769b4f5fd6.JPG)
